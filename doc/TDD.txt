@@ -1,0 +1,3 @@
+TDD siginifica: Teste Driven development uo
+desenvolvimento direcionado por teste 
+- o objetivo não é exatamente a qualidade do software , embora  ajude muito
